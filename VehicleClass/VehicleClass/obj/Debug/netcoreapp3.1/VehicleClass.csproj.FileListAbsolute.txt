@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\bin\Debug\netcoreapp3.1\VehicleClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VehicleClass\VehicleClass\obj\Debug\netcoreapp3.1\VehicleClass.genruntimeconfig.cache
